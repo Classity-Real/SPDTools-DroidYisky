@@ -58,4 +58,4 @@ You can launch the menu.sh by typing the command
   the Spreadtrum Flash V35 tool, which provided the tool layout used here.
 - The **Spreadtrum/Unisoc reverse-engineering community** for the underlying
   flashing research and `fdl` firmware.
-  **[Seuj09](https://github.com/Seuj09)** - Some words ain't mine btw
+- **[Seuj09](https://github.com/Seuj09)** - Some words ain't mine btw
